@@ -1,0 +1,1 @@
+# quarkus-strimzi-cli-demos
