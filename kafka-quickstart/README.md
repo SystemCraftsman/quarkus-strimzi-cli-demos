@@ -1,4 +1,4 @@
-Quarkus Strimzi Demo (with Strimzi Kafka CLI)
+Quarkus Strimzi Demo (by using Strimzi Kafka CLI)
 ========================
 
 This project illustrates how you can interact with Apache Kafka on Kubernetes (Strimzi) using MicroProfile Reactive Messaging.
